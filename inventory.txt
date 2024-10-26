@@ -1,0 +1,2 @@
+ansibletarget1 ansible_host=192.168.1.42
+ansibletarget2 ansible_host=192.168.1.43 
